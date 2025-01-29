@@ -1,8 +1,8 @@
 #!/bin/bash
 
 model=$1
-input_path=/mnt/vast/hpc/gtosto_lab/GT_ADMIX/Basilio_08_19_2022/magma_v1.10/META_ANALYSIS_01_28_2025
-output_path=/mnt/vast/hpc/gtosto_lab/GT_ADMIX/Basilio_08_19_2022/magma_v1.10/META_ANALYSIS_01_28_2025
+input_path=/Here_you_should_add_your_working_directory
+output_path=/Here_you_should_add_your_working_directory
 
 # Step 1: Annotation
 snploc=$input_path/$model/meta_"$model"_double.input.snp.chr.pos.txt
